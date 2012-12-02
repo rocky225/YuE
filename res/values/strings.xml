@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, YuE!</string>
+    
+    <string name="common_Use">常用查询:</string>
+    <string name="uncommon_Use">不常用查询:</string>
+    
+    <string name="app_name">余额程序 V1.0</string>
+    <string name="ye">查询余额</string>
+    <string name="cxtc">查询GPRS流量</string>
+    <string name="kthk">开通香港漫游</string>
+    <string name="qxhk">取消香港漫游</string>
+    <string name="ktmc">开通澳门漫游</string>
+    <string name="qxmc">取消澳门漫游</string>
+
+</resources>

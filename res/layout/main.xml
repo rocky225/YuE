@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/common_Use"
+        android:textSize="20dp"
+        />
+
+    <Button android:id="@+id/ye"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ye"/>
+    
+    <Button android:id="@+id/cxtc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cxtc"/>
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uncommon_Use"
+        android:textSize="20dp"
+        />
+    
+    <Button android:id="@+id/kthk"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kthk"/>
+    
+    <Button android:id="@+id/qxhk"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/qxhk"/>
+    
+    <Button android:id="@+id/ktmc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ktmc"/>
+    
+    <Button android:id="@+id/qxmc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/qxmc"/>
+
+</LinearLayout>
